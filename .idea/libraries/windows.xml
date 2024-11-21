@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="windows">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/Java Downloads/LWJGL3 + Assets/LWJGL3 + Assets/lwjgl-2.9.1/native/windows" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
